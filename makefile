@@ -1,6 +1,6 @@
 README.md:
 	touch README.md
-	echo "# Final proyect - The Unix Workbench" >> README.md
+	echo "# Final project - The Unix Workbench" >> README.md
 	echo "" >> README.md
 	date +%c >> README.md
 	echo "" >> README.md
